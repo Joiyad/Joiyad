@@ -117,7 +117,8 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=Joiyad&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Joiyad)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Joiyad&theme=material-palenight)](https://github.com/Joiyad)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joiyad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Joiyad&show_icons=true&theme=radical)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joiyad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ----
