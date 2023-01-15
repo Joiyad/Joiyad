@@ -8,7 +8,7 @@
 
 - ⚡ have knowledge of **Blockchain Technology**
 
-- 👨‍💻 All of my projects are available [@Joiyad](github.com/Joiyad)
+- 👨‍💻 All of my projects are available [@Joiyad](https://github.com/Joiyad?tab=repositories)
 
 ---
 <details align="center">
