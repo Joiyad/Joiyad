@@ -120,7 +120,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Joiyad&theme=material-palenight)](https://github.com/Joiyad)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joiyad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joiyad&layout=compact&theme=vision-friendly-dark)](https://github.com/Joiyad/github-readme-stats)
 </div>
 
 ----
