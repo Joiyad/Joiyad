@@ -11,7 +11,9 @@
 - 👨‍💻 All of my projects are available [@Joiyad](github.com/Joiyad)
 
 ---
-
+<details align="center">
+<summary>🔬 <strong>my skillset</strong></summary>
+<div>
 <h3 align="center">Languages</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
@@ -109,13 +111,15 @@
     </a>
   </div>
 </div>
+    </div>
+    </details>
 
 ----
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Joiyad&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=Joiyad&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Joiyad)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Joiyad&theme=material-palenight)](https://github.com/Joiyad)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joiyad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
