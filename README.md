@@ -8,7 +8,7 @@
 
 - ⚡ have knowledge of **Blockchain Technology**
 
-- 👨‍💻 All of my projects are available [@Joiyad]([https://github.com/Joiyad?tab=repositories](https://joiyadkhan.netlify.app/projects))
+- 👨‍💻 All of my projects are available [@Joiyad]([https://joiyadkhan.netlify.app/projects](https://joiyadkhan.netlify.app/projects))
 
 ---
 <details align="center">
