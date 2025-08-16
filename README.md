@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Joiyad Khan<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-- 🏫 A pre-final year student at **NIT Hamirpur** 
+- 🏫 A student of **NIT Hamirpur** 
 
 - 👯 A fullstack developer
 
